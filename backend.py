@@ -6,13 +6,13 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # ─────────────────────────────────────────
-#  CONFIG — Add all your API keys here
+#  CONFIG — Add all your Sarvam API keys here
 # ─────────────────────────────────────────
-SARVAM_API_KEYS = [
-    "sk_2363i2ua_8FGPfhEJlPiKsPBTCOLgO0PV",
-    "sk_igbytqzh_zGiMC1wIni7pPd63CvXgLvwz",
-    "sk_eu3no3a1_XyM81m24kANVvW4bkFzVaVLi",
-    "sk_ewao0i3g_xJkaXu8sokj9K5bJPMb575Ji",
+SARVAM_API_KEYS = [ 
+    "API 1",
+    "API 2",
+    "API 3",
+    "API 4",
 ]
 current_key_index = 0
 
